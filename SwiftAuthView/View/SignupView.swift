@@ -69,7 +69,6 @@ struct SignupView: View{
                                 .padding()
                                 .background(lightGreyColor)
                                 .cornerRadius(5.0)
-                                .keyboardType(.emailAddress)
                                 .autocapitalization(.none)
                             
                             //Confirm Password
